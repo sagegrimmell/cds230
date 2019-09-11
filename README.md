@@ -3,7 +3,7 @@ Hello, world! This page introduces the code repository for CDS 230 - Modeling an
 
 
 [Additional Resources](https://github.com/hamdikavak/cds230/blob/fall-2019/additional_resources.md)
-
+[Homework Template](https://github.com/hamdikavak/cds230/blob/fall-2019/homework_(replace_homework_number_here).ipynb)
 
 ## Module 2
 - [.py example](https://github.com/hamdikavak/cds230/blob/fall-2019/helloworld.py)
